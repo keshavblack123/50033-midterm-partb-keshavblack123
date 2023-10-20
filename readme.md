@@ -29,7 +29,9 @@ You use "A" and "D" to move around and Spacebar to jump. You can attack enemies 
 ### Gameplay Video
 
 A ~60s recorded run of your game from start to finish (you may record from Unity editor, show your Game window clearly). You may provide a **working link, or a gif embedded directly here.**  
-https://youtu.be/gyHq01gCoOg
+https://youtu.be/gyHq01gCoOg (shorter video)
+
+https://youtu.be/iEqAuV2Tl_Q (original length)
 
 ## Features Implementation
 
